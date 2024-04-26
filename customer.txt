@@ -1,0 +1,30 @@
+ID:1
+Name:a
+ Phone:1
+Adress:1
+aa
+bb
+ID:2
+Name:b
+ Phone:2
+Adress:2
+cc
+dd
+ID:1
+Name:a
+ Phone:2
+Adress:1a
+aa
+xx
+ID:123
+Name:arwa
+ Phone:22
+Adress:nn
+a@gamil.com
+111
+ID:33
+Name:a
+ Phone:3
+Adress:ss
+a
+2
